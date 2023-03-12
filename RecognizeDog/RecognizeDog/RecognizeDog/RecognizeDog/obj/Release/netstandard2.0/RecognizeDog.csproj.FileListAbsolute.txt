@@ -1,0 +1,16 @@
+E:\STUDIA\WWSIS\Sztuczna inteligencja\Projekt\RecognizeDog\RecognizeDog\RecognizeDog\RecognizeDog\bin\Release\netstandard2.0\RecognizeDog.deps.json
+E:\STUDIA\WWSIS\Sztuczna inteligencja\Projekt\RecognizeDog\RecognizeDog\RecognizeDog\RecognizeDog\bin\Release\netstandard2.0\RecognizeDog.dll
+E:\STUDIA\WWSIS\Sztuczna inteligencja\Projekt\RecognizeDog\RecognizeDog\RecognizeDog\RecognizeDog\bin\Release\netstandard2.0\RecognizeDog.pdb
+E:\STUDIA\WWSIS\Sztuczna inteligencja\Projekt\RecognizeDog\RecognizeDog\RecognizeDog\RecognizeDog\obj\Release\netstandard2.0\RecognizeDog.csproj.AssemblyReference.cache
+E:\STUDIA\WWSIS\Sztuczna inteligencja\Projekt\RecognizeDog\RecognizeDog\RecognizeDog\RecognizeDog\obj\Release\netstandard2.0\RecognizeDog.GeneratedMSBuildEditorConfig.editorconfig
+E:\STUDIA\WWSIS\Sztuczna inteligencja\Projekt\RecognizeDog\RecognizeDog\RecognizeDog\RecognizeDog\obj\Release\netstandard2.0\App.xaml.g.cs
+E:\STUDIA\WWSIS\Sztuczna inteligencja\Projekt\RecognizeDog\RecognizeDog\RecognizeDog\RecognizeDog\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+E:\STUDIA\WWSIS\Sztuczna inteligencja\Projekt\RecognizeDog\RecognizeDog\RecognizeDog\RecognizeDog\obj\Release\netstandard2.0\ModalPage.xaml.g.cs
+E:\STUDIA\WWSIS\Sztuczna inteligencja\Projekt\RecognizeDog\RecognizeDog\RecognizeDog\RecognizeDog\obj\Release\netstandard2.0\RecognizeDog.AssemblyInfoInputs.cache
+E:\STUDIA\WWSIS\Sztuczna inteligencja\Projekt\RecognizeDog\RecognizeDog\RecognizeDog\RecognizeDog\obj\Release\netstandard2.0\RecognizeDog.AssemblyInfo.cs
+E:\STUDIA\WWSIS\Sztuczna inteligencja\Projekt\RecognizeDog\RecognizeDog\RecognizeDog\RecognizeDog\obj\Release\netstandard2.0\RecognizeDog.csproj.CoreCompileInputs.cache
+E:\STUDIA\WWSIS\Sztuczna inteligencja\Projekt\RecognizeDog\RecognizeDog\RecognizeDog\RecognizeDog\obj\Release\netstandard2.0\XamlC.stamp
+E:\STUDIA\WWSIS\Sztuczna inteligencja\Projekt\RecognizeDog\RecognizeDog\RecognizeDog\RecognizeDog\obj\Release\netstandard2.0\RecognizeDog.dll
+E:\STUDIA\WWSIS\Sztuczna inteligencja\Projekt\RecognizeDog\RecognizeDog\RecognizeDog\RecognizeDog\obj\Release\netstandard2.0\refint\RecognizeDog.dll
+E:\STUDIA\WWSIS\Sztuczna inteligencja\Projekt\RecognizeDog\RecognizeDog\RecognizeDog\RecognizeDog\obj\Release\netstandard2.0\RecognizeDog.pdb
+E:\STUDIA\WWSIS\Sztuczna inteligencja\Projekt\RecognizeDog\RecognizeDog\RecognizeDog\RecognizeDog\obj\Release\netstandard2.0\ref\RecognizeDog.dll

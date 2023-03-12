@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RecognizeDog.ModalPage">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Start">
+            <Image x:Name="image" HeightRequest="500"></Image>
+            <Label x:Name="breedLabel"></Label>
+            <Entry x:Name="inputNewBreed"></Entry>
+            <Button x:Name="enhanceButton" Text="Popraw rasę" Clicked="OnEnhanceButtonClicked" />
+            <Button x:Name="testButton" Text="Wykonaj test" Clicked="OnTestButtonClicked" />
+            <Button x:Name="dismissButton" Text="Zamknij" Clicked="OnDismissButtonClicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
