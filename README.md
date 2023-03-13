@@ -1,7 +1,20 @@
 # Dog breed recognition
+**Python | C# | Android | TensorFlow**
+### Features: 
+- The application allows for recognizing the breed of a dog based on a photo.
+- The application uses a neural network model with TensorFlow to recognize dog breeds.
+- The application allows for taking a photo using the camera.
+- The application requires an internet connection to download the model data.
+ 
+### Creating your model: 
+- Creating your model requires knowledge of TensorFlow and programming in Python.
+- To create your model, you need to download training data on dog breeds and use TensorFlow tools to create a neural network.
+- Then, you need to conduct the training process on the training data and evaluate the model using test data.
 
-<h2>Languages and Tools:</h2>
-Python | C# | Android | TensorFlow <br><br>
-The project was carried out in a group of 2 people. Our goal was to train the network with TensorFlow and build a database of 120 dog breeds. 
-Then we built a Rest API connected to the application on the phone. The way how it works is: a picture is sent to the computer and checked with the database. 
-When the breed matches, the response goes to the phone and gives to the user the result.
+### Notes: 
+- The application uses machine learning models to recognize dog breeds based on photos.
+- The results may be imprecise if the photo is of low quality or does not clearly show the dog.
+- The model may also have difficulty recognizing rarely seen or hybrid breeds.
+- The application requires an internet connection to download the latest model data.
+- The application is not intended for professional use and is only an entertainment tool.
+- The application cannot replace the opinion of a veterinarian or a dog breed specialist.
